@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shubhamak47/Chat-app.git"
+    "url": "git+https://github.com/MirageMalik47/Chat-app.git"
   },
   "author": "me",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shubhamak47/Chat-app/issues"
+    "url": "https://github.com/MirageMalik47/Chat-app/issues"
   },
-  "homepage": "https://github.com/shubhamak47/Chat-app#readme",
+  "homepage": "https://github.com/MirageMalik47/Chat-app#readme",
   "dependencies": {
     "express": "*",
     "socket.io": "*"
