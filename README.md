@@ -7,7 +7,7 @@ The Chat app will allow you to chat with your friends without a login.
 ## Installation
 
 1. Clone the project using git:
-    `https://github.com/shubhamak47/Chat-app`
+    `https://github.com/MirageMalik47/Chat--App`
 2. cd into the repo using terminal cd command
 3. Type following command to install all the dependencies:
     `npm install`
